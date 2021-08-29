@@ -2,6 +2,7 @@
 - 👀 I’m interested in financial programing.
 - 🌱 I’m currently learning artificial inteligence and webscrapping in Python.
 - 📫 How to reach me farias.giovany@gmail.com
+- +55 61 98212-7644( WhatsApp)
 
 <!---
 fariasgiovany/fariasgiovany is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
