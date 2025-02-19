@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fariasgiovany
-- 👀 I’m interested in financial programing.
+- 👀 I’m interested in fullstack programing.
 - 🌱 I’m currently learning artificial inteligence and webscrapping in Python and webdevellopment.
 - 📫 How to reach me farias.giovany@gmail.com
 - +55 61 98212-7644( WhatsApp)
